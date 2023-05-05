@@ -12,6 +12,8 @@ h1{
 
 section{
     display: flex;
+    margin-bottom: 100px;
+
 }
 .half_width{
     width: 50%;
@@ -28,11 +30,20 @@ section{
     background-color: orangered;
     border-radius: 5px;
     padding: 5px 5px;
-    margin-left: 2%;
+    
 }
 
 .top_banner{
     background-image: url(bakground_img.jpg);
     background-repeat: no-repeat;
-   
+}
+
+
+.dream_big{
+    background-image: url(bakground_img.jpg);
+    background-repeat: no-repeat;
+    background-position: center right;
+    margin-right: 100px;
+    padding-left: 100px;
+    
 }
